@@ -1,4 +1,4 @@
-Studying physics and mathematics at the Norwegian university of science and technology
+Studying physics and mathematics at the Norwegian University of Science and Technology
 
 <!---
 tncrdk/tncrdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
